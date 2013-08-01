@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openejb-jar xmlns="http://www.openejb.org/openejb-jar/1.1">
+
+    <!-- Note: message body handlers are no longer listed here, but found by JAX-RS provider scanning -->
+
+</openejb-jar>
